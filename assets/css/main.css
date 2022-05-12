@@ -1,0 +1,21 @@
+body{background-color: aquamarine;
+}
+.area{
+    width: 100%;
+    height: 500px;
+    line-height: 500px;
+    text-align: center;
+    margin: 25px 0;
+    cursor: pointer;
+    position: relative;
+    border-radius: 20px;
+    border: 25px solid rgb(47, 204, 47);
+}
+#preview{
+    display:flex; 
+    gap:30px; 
+}
+.area i{
+    color:green;
+    font-size:120px;
+}
